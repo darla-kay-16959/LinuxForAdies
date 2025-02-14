@@ -28,8 +28,8 @@ There are 4 files we'll use besides this one, and numbered in order of usage:
 NOTE: 
 1. PDF Viewer:  You can install .PDF viewe extension in VS Code for convenience
 2. Excel Viewer:  If you don't have Excel, you can...
-    a. install an Excel viewer extension for VS Code 
-    b. open in LibreOffice Calc spreadsheet (open-source).
+-   install an Excel viewer extension for VS Code 
+-   open in LibreOffice Calc spreadsheet (open-source).
 
 IF you have any questions at all, please feel free to reach out to me at any time:
 
