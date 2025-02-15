@@ -22,8 +22,9 @@ There are 4 files we'll use besides this one, and numbered in order of usage:
 -   00-Play With Docker Instructions.pdf ......... How to log onto one of Docker's Linux sessions
 -   01-LinuxForAdies-LLL-Workshop-20250122.pdf ......This is the main workshop file, where we go step-by-step
 -   02-LinuxForAdies-Quick-Reference.pdf.......... This is a condensed version of the workshop that you can quickly refer to
--   03-Linux-file-permissionsxlsx.txt* ........... This file that we walk through to learn how Linux file permissions work.
--   FossWire-Unix-Linux-Command-Reference.pdf ....... This PDF is another resource for additional commaands
+-   03-Linux-file-permissions-Quick-Reference.pdf .....PDF version of the spreadsheet file below, for quick reference
+-   04-Linux-file-permissions.xlsx .......This file that we walk through to learn how Linux file permissions work.
+-   LinuxCommandReference-FossWire.pdf ....... This PDF is another resource for additional commaands
 
 NOTE: 
 1. PDF Viewer:  You can install .PDF viewe extension in VS Code for convenience
