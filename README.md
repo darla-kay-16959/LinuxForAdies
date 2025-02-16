@@ -18,13 +18,13 @@ home.
 
 Key to the Learning Files: 
 
-There are 5 files we'll use besides this one, and numbered in order of usage:
+We will use the 5 files listed below in the order of their numbering for this workshot:
 
--   00-Play With Docker Instructions.pdf ......... How to log onto one of Docker's Linux sessions
--   01-LinuxForAdies-LLL-Workshop-20250122.pdf ......This is the main workshop file, where we go step-by-step
--   02-LinuxForAdies-Quick-Reference.pdf.......... This is a condensed version of the workshop that you can quickly refer to
--   03-Linux-file-permissions-Quick-Reference.pdf .....PDF version of the spreadsheet file below, for quick reference
--   04-Linux-file-permissions.xlsx .......This file that we walk through to learn how Linux file permissions work.
+-   00-Play With Docker Instructions.pdf ......... How to log onto one of Docker Lab's Linux sessions
+-   01-LinuxForAdies-LLL-Workshop-20250122.pdf ......The main step-by-step guide for this workshop
+-   02-LinuxForAdies-Quick-Reference.pdf.......... This is a condensed version of the workshop guide∂ for quick reference.
+-   03-Linux-file-permissions-Quick-Reference.pdf .....PDF version of the spreadsheet file below, for quick reference.
+-   04-Linux-file-permissions.xlsx .......This guide helps us learn *how* Linux file permissions work (most people don't know this).
 -   LinuxCommandReference-FossWire.pdf ....... This PDF is another resource for additional commaands
 
 NOTE: 
