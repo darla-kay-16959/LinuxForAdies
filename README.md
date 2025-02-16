@@ -18,9 +18,8 @@ home.
 
 Key to the Learning Files: 
 
-There are 4 files we'll use besides this one, and numbered in order of usage:
+There are 5 files we'll use besides this one, and numbered in order of usage:
 
-There are 4 files we'll use besides this one, and numbered in order of usage:
 -   00-Play With Docker Instructions.pdf ......... How to log onto one of Docker's Linux sessions
 -   01-LinuxForAdies-LLL-Workshop-20250122.pdf ......This is the main workshop file, where we go step-by-step
 -   02-LinuxForAdies-Quick-Reference.pdf.......... This is a condensed version of the workshop that you can quickly refer to
