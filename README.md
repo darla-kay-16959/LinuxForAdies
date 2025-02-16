@@ -1,3 +1,5 @@
+[Last Update: 20250214]
+
 Hello Lovely Adies!
 
 
@@ -32,9 +34,8 @@ NOTE:
 -   install an Excel viewer extension for VS Code 
 -   open in LibreOffice Calc spreadsheet (open-source).
 
-IF you have any questions at all, please feel free to reach out to me at any time:
-
-Just email and we can set up Zoom sessions:  darla.teachestech.5127@gmail.com
+If you have any questions at all, please reach out to me at   darla.teachestech.5127@gmail.com
+and we can set up Zoom sessions.  
 
 
 ONE REQUEST:  
